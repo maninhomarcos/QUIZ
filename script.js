@@ -62,7 +62,7 @@ const questions = [
             {
                 question: "Qual o maior campeao do brasileirao?",
                 options: [" Náutico ", "Sport", "Palmeiras", "São paulo"],
-                answer: 2  },
+                answer: 3  },
       
         {
             question: "Para quem a Ashley pede ajuda em RE4? ",
